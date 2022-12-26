@@ -1,4 +1,4 @@
-// (C) 2022 Chris
+// (C) 2022 Chris Mba
 // That's right.
 #![allow(irrefutable_let_patterns)]
 use std::{env, fs};
